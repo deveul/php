@@ -1,0 +1,51 @@
+body {background-color:#E3F6F9;}
+h1 {text-align:center;
+	font-size:3vmin;
+}
+h6 {
+	font-style:italic;
+	font-family:monospace;
+	text-align:right;
+}
+
+table, th, td {
+	border: 2px solid black;
+}
+.sciencepic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	width: 3%;
+	height: 3%;
+}
+.elem {
+	text-align:center;
+	font-size:3vmin;
+}
+.alinea {
+	text-align:center;
+	font-size:1vmin;
+}
+.mass {
+	color:green;
+	text-align:right;
+	font-size:1vmin;
+}
+.nb {
+	color:red;
+	text-align:left;
+	font-size:1vmin;
+}
+.powergreen {background-color:#06DE06;}
+.fadegreen {background-color:#73DB96;}
+.orange {background-color:#FECC58;}
+.yellow {background-color:#F8FE3C;}
+.purple {background-color:#E287FE;}
+.plpurple {background-color:#C07CCE;}
+.lightblue {background-color:#64C7C0;}
+.blue {background-color:#01DCFE;}
+.grey {background-color:#D2D2D2;}
+.pomelo {background-color:#F7AA45;}
+

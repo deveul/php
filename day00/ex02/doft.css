@@ -1,0 +1,183 @@
+body {background-color:#505050;}
+
+#Dot42 {
+	width:450px;
+	height:136px;
+	border-radius: 8px;
+}
+
+#loupe {
+	float: right;
+	margin-top: 10px;
+	width: 230;
+	height: 136;
+}
+
+#reload {
+	margin: 0px 0px 74px 0px;
+}
+
+.candr {
+	float: right;
+	width:25px;
+	height:122px;
+	margin: 7px 7px 0px 0px;
+}
+
+.rectangle1 {
+	background-color: #909090;
+	height: 136px;
+	width: 1420px;
+	margin: auto;
+	border-radius: 8px;
+	box-shadow: 10px 10px 7px;
+}
+
+.leftrectangle {
+	background-color: #909090;
+	height: 425px;
+	width: 140px;
+	margin-top: -157px;
+	margin-right: 30px;
+	border-radius: 8px;
+	box-shadow: 10px 10px 7px;
+}
+
+.rightrectangle {
+	background-color: #909090;
+	height: 425px;
+	width: 140px;
+	margin-top: -157px;
+	margin-left: 30px;
+	border-radius: 8px;
+	box-shadow: 10px 10px 7px;
+}
+
+.mainrectangle {
+	background-color: #909090;
+	height: 582px;
+	width: 1020px;
+	border-radius: 8px;
+	box-shadow: 10px 10px 7px;
+}
+
+.bigrectangle {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
+.leftbox {
+	display: flex;
+	flex-direction: column;
+	height: 425px;
+	width: 140px;
+	justify-content: center;
+	align-items: center;
+}
+
+.item {
+	width: 71px;
+	height: 71px;
+}
+
+.rightbox {
+	display: flex;
+	flex-direction: column;
+	height: 425px;
+	width: 140px;
+	align-items: center;
+}
+
+#book {
+	width: 70px;
+	height: 100px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+#towel {
+	width: 70px;
+	height: 50px;
+}
+
+.brickbox {
+	max-width:120px;
+	overflow: hidden;
+	display: flex;
+	margin-bottom: -4px;
+}
+
+.itemwb {
+	border: 5px;
+	border-style: solid;
+	border-color: red;
+	border-radius: 10px;
+	width: 71px;
+	height: 71px;
+}
+
+.mainbox {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#Clust {
+	margin-top: 10px;
+	width: 1000px;
+	height: 562px;
+}
+
+.relative {
+	position: relative;
+}
+
+.greenbox {
+	background-color: #88FF89;
+	height: 170px;
+	width: 520px;
+	position: absolute;
+	margin-top: 300px;
+	margin-left: -495px;
+	border-radius: 8px;
+	box-shadow: 10px 10px 7px;
+	text-align: left;
+	text-indent: 10px;
+	line-height: 0.8;
+	font-size: 19px;
+	font : monospace;
+}
+
+.shadow {
+	margin-top: -34px;
+	margin-left: 13px;
+	font-size: 19px;
+	text-shadow: 5px 5px 5px red;
+}
+
+.point {
+	margin-top: -15px;
+	margin-left: 89px;
+}
+
+.bordereau {
+	width: 385px;
+	border-top: 2px solid #BABABA;
+	border-left: 2px solid #BABABA;
+	border-right: 2px solid #EDEDED;
+	border-bottom: 2px solid #EDEDED;
+}
+
+.button {
+	border-radius: 2px;
+	background-color: #F2F0F0;
+	font-size: 12px;
+	border-color: grey;
+}
+
+em {
+	font-size: 30px;
+	font-family: "Times New Roman", Times, serif;
+}
